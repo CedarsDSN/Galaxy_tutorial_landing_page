@@ -12,6 +12,7 @@ RNA-Seq single-end analysis is a powerful technique used in molecular biology to
 The RNA-Seq single-end analysis workflow is a systematic process that involves several key steps, ensuring the accurate quantification and profiling of RNA molecules. This summary provides an overview of this methodology and its workflow.
 
 Key Components of RNA-Seq Single-End Analysis:
+
 1. **Sample Preparation:** The process begins with the extraction and purification of RNA molecules from the biological sample of interest. This RNA is then converted into complementary DNA (cDNA) libraries.
 
 2. **Library Preparation:** cDNA libraries are prepared for sequencing, which may include fragmentation, adapter ligation, and amplification steps to generate sequencing-ready libraries.
@@ -27,9 +28,9 @@ Key Components of RNA-Seq Single-End Analysis:
 7. **Visualization and Reporting:** Data can be visualized in the form of plots, heatmaps, and pathways to convey meaningful insights and support research findings.
 
 Benefits of RNA-Seq Single-End Analysis:
-- Improved sensitivity: Single-end sequencing is cost-effective and offers good sensitivity for quantifying gene expression.
-- Detects novel transcripts: It can identify novel transcripts and splice variants, contributing to a more comprehensive understanding of the transcriptome.
-- Quantification accuracy: Precise quantification of gene expression levels, even for lowly expressed genes.
-- Versatility: Applicable to various RNA types, including mRNA, long non-coding RNA, and small RNA.
+1. Improved sensitivity: Single-end sequencing is cost-effective and offers good sensitivity for quantifying gene expression.
+2. Detects novel transcripts: It can identify novel transcripts and splice variants, contributing to a more comprehensive understanding of the transcriptome.
+3. Quantification accuracy: Precise quantification of gene expression levels, even for lowly expressed genes.
+4. Versatility: Applicable to various RNA types, including mRNA, long non-coding RNA, and small RNA.
 
 In conclusion, RNA-Seq single-end analysis is a vital tool for understanding the transcriptome's complexity and dynamics. This workflow allows researchers to investigate gene expression changes and their implications in various biological contexts, from basic science to clinical research, offering profound insights into the molecular mechanisms of life.
