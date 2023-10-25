@@ -1,12 +1,11 @@
 **RNA-seq single-end workflow**
 ===============================
 
-Introduction to RNA-Seq Single-End Analysis and Workflow
-
 **Workflow**
-The workflow is linked `here <https://galaxy-tutorial-rnaseq-single-end.readthedocs.io/en/latest/>`_
+The DSN tutorial is linked `here <https://galaxy-tutorial-rnaseq-single-end.readthedocs.io/en/latest/>`_
 
-Summary:
+**Summary**:
+
 RNA-Seq single-end analysis is a powerful technique used in molecular biology to study gene expression and transcriptomic changes within a cell or tissue. This methodology enables researchers to gain insight into the dynamic landscape of RNA molecules in a sample, helping to unravel critical biological processes, identify biomarkers, and understand gene regulation.
 
 The RNA-Seq single-end analysis workflow is a systematic process that involves several key steps, ensuring the accurate quantification and profiling of RNA molecules. This summary provides an overview of this methodology and its workflow.
