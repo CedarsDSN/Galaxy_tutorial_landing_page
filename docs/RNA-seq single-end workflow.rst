@@ -3,7 +3,7 @@
 
 **Workflow**
 
-The DSN tutorial is linked `here <https://galaxy-tutorial-rnaseq-single-end.readthedocs.io/en/latest/>`_
+The DSN tutorial for RNA-seq single-end workflow is linked `here <https://galaxy-tutorial-rnaseq-single-end.readthedocs.io/en/latest/>`_
 
 **Summary**:
 
