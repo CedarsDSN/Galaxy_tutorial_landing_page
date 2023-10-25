@@ -1,4 +1,5 @@
-**Introduction to RNA-Seq Paired-End Analysis and Workflow**
+**RNA-seq paired-end workflow**
+==============================
 
 **Workflow**
 
