@@ -22,3 +22,4 @@ Contents
     :depth: 2
 
    RNA-seq single-end workflow
+   RNA-seq paired-end workflow
