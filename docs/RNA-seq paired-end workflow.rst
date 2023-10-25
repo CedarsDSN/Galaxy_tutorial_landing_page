@@ -3,10 +3,9 @@
 
 **Workflow**
 
-The DSN tutorial is linked `here <https://galaxy-tutorial.readthedocs.io/en/latest/>`_
+The DSN tutorial for RNA-seq paired-end workflow is linked `here <https://galaxy-tutorial.readthedocs.io/en/latest/>`_
 
-
-Summary:
+**Summary**:
 
 RNA-Seq paired-end analysis is a sophisticated and versatile technique employed in molecular biology for in-depth exploration of gene expression and transcriptome profiling. This method allows researchers to unravel intricate RNA structures, detect gene isoforms, and provide a more comprehensive view of the transcriptome by sequencing both ends of cDNA fragments. This summary provides an overview of RNA-Seq paired-end analysis and its associated workflow.
 
