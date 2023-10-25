@@ -2,6 +2,7 @@
 ===============================
 
 **Workflow**
+
 The DSN tutorial is linked `here <https://galaxy-tutorial-rnaseq-single-end.readthedocs.io/en/latest/>`_
 
 **Summary**:
