@@ -1,9 +1,8 @@
 Welcome to Cedar-Sinai Medical Center Data Science Navigation team's Galaxy documentation!
 =========================================================================================
 
-Introduction to the Data Science Navigation `Team <https://www.cedars-sinai.edu/research/cores/data-science-navigator.html>`_ at Cedars-Sinai
-
-Welcome to the Data Science Navigation team at Cedars-Sinai! We are a dynamic and innovative group of experts dedicated to advancing the frontiers of data-driven research and precision medicine. Our team is committed to developing and optimizing cutting-edge workflows, such as RNA-Seq single-end analysis, to unlock the full potential of biological and clinical data for healthcare breakthroughs.
+**Galaxy** is a Bioinformatics resource which is user-friendly, intuitive and accessible. It is especially useful for those that have little to no programming experience.
+Galaxy is freely available on the internet. Cedars-Sinai has provided a Galaxy instance that is exclusively for Cedars-Sinai employees to run Bioinformatics analysis independently. It allows for reproducible results and tools, and also allows for collaboration seamlessly. Further, one can create their own workflows by integrating the tools for a certain analysis that will be used frequently.
 
 This is a webpage that will take you to all the workflows that we have developed here. We will be putting in more workflows as we develop them.
 
