@@ -22,3 +22,4 @@ Contents
 
    RNA-seq single-end workflow
    RNA-seq paired-end workflow
+   Miscellaneous/index.rst
